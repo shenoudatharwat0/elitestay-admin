@@ -1,0 +1,5 @@
+{
+  "name": "EliteStay Admin",
+  "description": "A professional multi-tenant hotel management dashboard based on Clean Architecture principles.",
+  "requestFramePermissions": []
+}
